@@ -2,6 +2,16 @@
 
 An end-to-end analysis of Airbnb listings across **Paris, London, and Hong Kong** — combining data cleaning, machine learning, NLP, and business intelligence to explore pricing trends, guest sentiment, and market performance.
 
+## 🎯 Project Overview
+
+This project was developed as a graduation project (NTI), analyzing real Airbnb listings data from three major cities to uncover pricing patterns, predict listing prices, and understand guest sentiment through their reviews.
+
+**Highlights:**
+- 🏙️ Comparative analysis across **3 international markets** (Paris, London, Hong Kong)
+- 🤖 Machine learning models built and compared to predict listing prices
+- 💬 NLP-based sentiment analysis on thousands of guest reviews
+- 📊 Interactive Power BI dashboard summarizing key insights for stakeholders
+- 🧹 Full data cleaning pipeline ensuring reliable, analysis-ready data
 ---
 
 ## 📁 Project Structure
