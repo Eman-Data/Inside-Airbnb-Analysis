@@ -7,10 +7,15 @@ An end-to-end analysis of Airbnb listings across **Paris, London, and Hong Kong*
 ## 📁 Project Structure
 Inside-Airbnb-Analysis/
 ├── notebooks/
+
 │ ├── NLP_Sentiment_Analysis_Manar.ipynb # Review sentiment analysis
+
 │ └── Machine_Learning_Price_Prediction_Helana.ipynb # Price prediction models
+
 ├── presentation/
+
 │ └── Inside_Airbnb_Presentation.pptx # Project presentation
+
 ├── power_bi/
 │ └── Inside_Airbnb_Dashboard.pbix # Interactive Power BI dashboard
 └── README.md
